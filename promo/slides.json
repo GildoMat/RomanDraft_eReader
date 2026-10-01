@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "maxShows": 2,
+  "enabled": true,
+  "items": [
+    {
+      "image": "covers/esempio_copertina_verticale.jpg",
+      "text": "Esempio: il mio nuovo romanzo è disponibile.",
+      "seconds": 5,
+      "link": "https://example.com/il-mio-romanzo"
+    },
+    {
+      "image": "covers/esempio_scheda_orizzontale.jpg",
+      "text": "Esempio: scheda orizzontale senza link (nessun tocco attivo).",
+      "seconds": 5
+    },
+    {
+      "text": "Esempio: slide di solo testo.",
+      "seconds": 4
+    }
+  ]
+}
