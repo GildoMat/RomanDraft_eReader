@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "maxShows": 2,
   "enabled": true,
   "items": [
@@ -11,7 +11,7 @@
     },
     {
       "image": "covers/orizzontale.jpg",
-      "text": "verdione di test).",
+      "text": "versione di test.",
       "seconds": 5
     },
     {
