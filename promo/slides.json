@@ -4,13 +4,13 @@
   "enabled": true,
   "items": [
     {
-      "image": "covers/verticale.png",
+      "image": "covers/verticale.jpg",
       "text": "eReader per editing di testi",
       "seconds": 5,
       "link": ""
     },
     {
-      "image": "covers/orizzontale.png",
+      "image": "covers/orizzontale.jpg",
       "text": "verdione di test).",
       "seconds": 5
     },
