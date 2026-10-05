@@ -4,18 +4,18 @@
   "enabled": true,
   "items": [
     {
-      "image": "covers/esempio_copertina_verticale.jpg",
-      "text": "Esempio: il mio nuovo romanzo è disponibile.",
+      "image": "covers/verticale.png",
+      "text": "eReader per editing di testi",
       "seconds": 5,
-      "link": "https://example.com/il-mio-romanzo"
+      "link": ""
     },
     {
-      "image": "covers/esempio_scheda_orizzontale.jpg",
-      "text": "Esempio: scheda orizzontale senza link (nessun tocco attivo).",
+      "image": "covers/orizzontale.png",
+      "text": "verdione di test).",
       "seconds": 5
     },
     {
-      "text": "Esempio: slide di solo testo.",
+      "text": "",
       "seconds": 4
     }
   ]
